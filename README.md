@@ -1,6 +1,6 @@
 # 📌 Sınav Simülasyonu
 
-Bu proje, belirlenen öğrenci sayısına göre rastgele bir sınav ve  cevap anahtarı oluşturup, belirlenen olasılıklara göre cevap veren öğrencilerin puanlarını hesaplayan bir C programıdır.
+Projede , belirlenen öğrenci sayısına göre rastgele bir sınav ve  cevap anahtarı oluşturup, belirlenen olasılıklara göre cevap veren öğrencilerin puanlarını hesaplayan bir C programıdır.
 
 ## 🚀 Özellikler
 - Rastgele bir sınav cevap anahtarı üretme
