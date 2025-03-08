@@ -9,3 +9,5 @@ Projede , belirlenen öğrenci sayısına göre rastgele bir sınav ve  cevap an
 - Sınıf ortalaması ve standart sapma hesaplama
 - T-Skoru hesaplama ve harf notu belirleme
 - Sınıf düzeyini belirleme
+
+(2022)
